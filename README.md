@@ -2,22 +2,15 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Usage](#usage)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project allows to create list of activities that you would like to plan and perform.
+It allows to add and delete tasks as well saving them in .dat file.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python
 	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+## Usage
+python to_do_list.py
